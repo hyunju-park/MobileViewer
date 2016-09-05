@@ -1,0 +1,7 @@
+Host Device : windows 10 mobile 
+Client Devie: windows 10 desktop
+Communication bus: usb or network(wifi)
+
+searching : Graphic API about screen
+            ex) game API(screen raw data)
+            Win Socket API
